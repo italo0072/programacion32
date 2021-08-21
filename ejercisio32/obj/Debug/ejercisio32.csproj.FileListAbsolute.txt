@@ -1,0 +1,10 @@
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\bin\Debug\ejercisio32.exe.config
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\bin\Debug\ejercisio32.exe
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\bin\Debug\ejercisio32.pdb
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\bin\Debug\ejercisio.dll
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\bin\Debug\ejercisio.pdb
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\obj\Debug\ejercisio32.csprojAssemblyReference.cache
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\obj\Debug\ejercisio32.csproj.CoreCompileInputs.cache
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\obj\Debug\ejercisio32.csproj.CopyComplete
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\obj\Debug\ejercisio32.exe
+C:\Users\lobo1\source\repos\ejercisio32\ejercisio32\obj\Debug\ejercisio32.pdb
